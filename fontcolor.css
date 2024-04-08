@@ -1,0 +1,82 @@
+*{
+    background-color:black;
+    color: azure;  /* this is use for background*/
+    
+}
+a {
+    color: blue; /* Change the color to your desired color */
+}
+.cas{
+    background-color:#1B1A59;
+    color: #FFE6E6;
+    font-family: monospace;  /* this is responsible for head element*/
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+}
+   
+h2{
+
+    color:#BB8493;
+    font-family: monospace;
+    font-size: 2rem;
+    margin-left: 25px;
+}
+h3{
+    
+    font-family: monospace;
+    font-size: 2rem;
+    margin-left: 25px;
+    text-transform: uppercase;
+}
+h4{
+    color: gold;
+    font-family: monospace;
+    font-size: 2rem;
+    margin-left: 25px;
+    text-transform: uppercase;
+margin-bottom: 0;
+}
+.box{
+color: blue;
+
+}
+.box>p {
+    color: yellow;
+    font-weight: bolder;
+}
+li.done{
+    color: plum;
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: uppercase;
+    
+}
+ul p.done{
+    color: yellow;
+    font-size: 1.5rem;
+}
+p{
+    color: #B3C8CF;
+    font-family: cursive;
+    margin-left: 25px;
+}
+.fire-sign span {
+    color:gold; /* Change this to the color you desire */
+}
+.earth-sign span{
+    color: green;
+}
+.air-sign span {
+    color:skyblue; }/* Change this to the color you desire */
+  .water-sign span {
+        color:blue; }
+#links a{
+    font-size: 20px;
+    margin-left: 50%;
+}
+        
